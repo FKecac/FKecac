@@ -15,7 +15,7 @@
 </picture>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-spont-cputgv2sx-spontifex.vercel.app/api?username=spontifex&show_icons=true&theme=transparent)
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
