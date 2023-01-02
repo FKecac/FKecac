@@ -14,17 +14,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original.svg#gh-light-mode-only" title="Crystal" alt="Crystal" width="80" height="80"/>&nbsp;
 </picture>
 </p>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="http://github-readme-stats-spont-spontifex.vercel.app/api?username=spontifex&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="[http://github-readme-stats-spont-spontifex.vercel.app/api?username=spontifex&show_icons=true" />
-</picture>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
