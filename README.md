@@ -20,10 +20,10 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="github-readme-stats-spont.vercel.app/api?username=spontifex&show_icons=true"
+  srcset="https://github-readme-stats-spont-kmlj18ow4-spontifex.vercel.app/api?username=spontifex&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="github-readme-stats-spont.vercel.app/api?username=spontifex&show_icons=true" />
+<img src="https://github-readme-stats-spont-kmlj18ow4-spontifex.vercel.app/api?username=spontifex&show_icons=true" />
 </picture>
 
 <p align="center">
