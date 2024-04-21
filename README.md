@@ -1,5 +1,6 @@
 ---
-
+### General License
+Unless otherwise stated in the specific-repository, the MIT license applies.
 ### 🛠 &nbsp;Languages:
 
 <p>
